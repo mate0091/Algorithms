@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1539844039 source:b:\projektek\fundamental algorithms\lab1\sorting\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"Profiler.h"
+
+1521097204 b:\projektek\fundamental algorithms\lab1\sorting\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+

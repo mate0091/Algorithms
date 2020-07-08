@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1489085468 source:b:\projektek\fundamental algorithms\test\test.cpp
+	"Profiler.h"
+
+1521100804 b:\projektek\fundamental algorithms\test\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1538677676 source:b:\projektek\fundamental algorithms\test\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Profiler.h"
+

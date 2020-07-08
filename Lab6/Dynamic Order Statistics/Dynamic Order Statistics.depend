@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1542867421 source:b:\projektek\fundamental algorithms\lab6\dynamic order statistics\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Profiler.h"
+
+1521097204 b:\projektek\fundamental algorithms\lab6\dynamic order statistics\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+

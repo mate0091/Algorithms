@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1544686513 source:b:\projektek\fundamental algorithms\lab9\bfs\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Profiler.h"
+	"SLList.hpp"
+
+1544077747 b:\projektek\fundamental algorithms\lab9\bfs\graph.hpp
+	<stdio.h>
+	<stdlib.h>
+	"Profiler.h"
+
+1521097204 b:\projektek\fundamental algorithms\lab9\bfs\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1520504945 source:b:\projektek\fundamental algorithms\lab9\bfs\sllist.c
+	"SLList.h"
+
+1544080425 b:\projektek\fundamental algorithms\lab9\bfs\sllist.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1541501019 source:b:\projektek\fundamental algorithms\lab9\bfs\sllist.cpp
+	"SLList.h"
+
+1541435853 b:\projektek\fundamental algorithms\lab9\bfs\sllist.hpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1542267579 source:b:\projektek\fundamental algorithms\lab5\hashtables\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Profiler.h"
+	<string.h>
+
+1521097204 b:\projektek\fundamental algorithms\lab5\hashtables\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+

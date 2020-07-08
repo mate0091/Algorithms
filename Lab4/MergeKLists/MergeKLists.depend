@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1520504945 source:b:\projektek\fundamental algorithms\lab4\mergeklists\sllist.c
+	"SLList.h"
+
+1541435853 b:\projektek\fundamental algorithms\lab4\mergeklists\sllist.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1541659875 source:b:\projektek\fundamental algorithms\lab4\mergeklists\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Profiler.h"
+	"SLList.h"
+
+1521097204 b:\projektek\fundamental algorithms\lab4\mergeklists\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1541501019 source:b:\projektek\fundamental algorithms\lab4\mergeklists\sllist.cpp
+	"SLList.h"
+
+1541352142 source:b:\projektek\fundamental algorithms\lab4\mergeklists\heap.cpp
+	"heap.hpp"
+	<limits.h>
+
+1541351203 b:\projektek\fundamental algorithms\lab4\mergeklists\heap.hpp
+	"SLList.h"
+	<stdio.h>
+

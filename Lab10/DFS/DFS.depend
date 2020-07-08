@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1545247733 source:b:\projektek\fundamental algorithms\lab10\dfs\sllist.cpp
+	"SLList.hpp"
+
+1545247733 b:\projektek\fundamental algorithms\lab10\dfs\sllist.hpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1545290264 source:b:\projektek\fundamental algorithms\lab10\dfs\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Profiler.h"
+	"SLList.hpp"
+
+1521097204 b:\projektek\fundamental algorithms\lab10\dfs\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+

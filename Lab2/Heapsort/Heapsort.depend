@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540447836 source:b:\projektek\fundamental algorithms\lab2\heapsort\main.cpp
+	<stdio.h>
+	"Profiler.h"
+
+1521097204 b:\projektek\fundamental algorithms\lab2\heapsort\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
